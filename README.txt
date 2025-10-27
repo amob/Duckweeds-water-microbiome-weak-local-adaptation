@@ -14,7 +14,7 @@ It generates the following figures (in order of the script):
  alltrtmns.pdf (Figure 1)
  alltrtmns_matchcol.pdf (Figure S1)
  MainEffectsMeans.pdf (Figure S2)
- Inoculation.pdf (Figure S3)
+ Inoculation.pdf (Figure S3)	
  LAtests_full.pdf (Figure 2)
  LA_watershed_tests.pdf (Figure S4)
  ResponseCorrelationsByTrt.pdf (Figure 3)
