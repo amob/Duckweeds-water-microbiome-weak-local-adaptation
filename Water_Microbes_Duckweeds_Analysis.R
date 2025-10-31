@@ -493,7 +493,7 @@ LAOD600mn <- tapply(log(inocOnly$OD600), inocOnly$NumSameMicr,mean,na.rm=T)
 LAOD600se <- tapply(log(inocOnly$OD600), inocOnly$NumSameMicr,std.error)
 
 #plot figure
-pdf("LAtests_full.pdf",height=7,width=6.5)
+pdf("LAtests_full.pdf",height=7,width=6)
 layout(matrix(1:16,ncol=4, byrow=F))
 par(mar=c(0,2.5,0,0))
 par(oma=c(7,2,1,1))
